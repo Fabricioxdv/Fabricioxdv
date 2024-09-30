@@ -6,15 +6,18 @@
 
 <div align="center">
   <h3><i> My contact information </i></h3>
+  <a href="mailto:fabricio.pinheiro2016@outlook.com"> <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="outlook_contact_img"/> </a>
   <br>
 
 
 <h3><i> Working Tools </i></h3>
 <div align="center">
 <img src="https://skillicons.dev/icons?i=vscode,github,git,linux,figma" />
-<img src="https://skillicons.dev/icons?i=python,mysql,postgres,notion,obsidian" /><br>
-<img src="https://drive.google.com/file/d/1xY8pAxRXkJNwLsBkpvjfg4VD9KrCcopT/view?usp=sharing"/>
+<img src="https://skillicons.dev/icons?i=python,mysql,postgres,notion,obsidian" />
+<img src="https://github.com/Fabricioxdv/Fabricioxdv/blob/main/Group%201%20(13).png" width="48" height="48"/>
 </div>
+
+
 
 <div align="center" class="row" display="inline">
   <h3 align="center"><i> Github Status </i></h3>
