@@ -1,5 +1,5 @@
 <div>
-<h1 align="center"><i>Hi, I'm Fabricio from Barueri SP!</i></h1>
+<h1 align="center"><i>Hi, I'm Fabricio from São Paulo!</i></h1>
 <h3 align="center"><i> Data Analyst </i></h3>
   <h4><i> About Me: I'm a 23-year-old Data Analyst JR at Realsbet, with a passion for transforming data into actionable insights. My journey into data analysis started with Excel, and since then, I’ve expanded my skills across tools like Power BI, Python, and MySQL, always looking for ways to automate processes and make data work more efficiently.  </i></h4>
   
