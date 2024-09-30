@@ -4,8 +4,6 @@
 <br>
 
 
-
-
 <div align="center">
   <h3><i> My contact information </i></h3>
   <br>
@@ -15,6 +13,7 @@
 <div align="center">
 <img src="https://skillicons.dev/icons?i=vscode,github,git,linux,figma" />
 <img src="https://skillicons.dev/icons?i=python,mysql,postgres,notion,obsidian" /><br>
+<img src="https://drive.google.com/file/d/1xY8pAxRXkJNwLsBkpvjfg4VD9KrCcopT/view?usp=sharing"/>
 </div>
 
 <div align="center" class="row" display="inline">
