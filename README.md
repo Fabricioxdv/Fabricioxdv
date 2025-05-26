@@ -22,7 +22,7 @@
 
 <h3><i> Working Tools </i></h3>
 <div align="center">
-<img src="https://skillicons.dev/icons?i=vscode,github,git,linux,figma,python,mysql,postgres,notion,obsidian" /> &nbsp
+<img src="https://skillicons.dev/icons?i=vscode,github,git,linux,php,figma,python,mysql,postgres,notion,obsidian" /> &nbsp
 <img src="https://github.com/Fabricioxdv/Fabricioxdv/blob/main/Group%201%20(14).png" width="48" height="48"/>
 </div>
 
